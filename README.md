@@ -23,14 +23,10 @@
 
 ## 🗂️ Project Structure
 
-### 📘 Phase 1: Initiation
-
-**Goal:** Establish a foundational understanding of third-party vendors supporting a media-streaming platform.
-
-**Key Activities:**
-- Identified 10 third-party vendors across dubbing, CDN, and analytics domains.
-- Assessed vendor involvement in handling sensitive content and user data.
-- Mapped internal stakeholders responsible for vendor oversight and regulatory compliance.
+### Phase 1: Initiation  
+- Vendor discovery (dubbing, CDN, analytics)  
+- Stakeholder mapping  
+- Deliverables: Vendor Classification Chart, Stakeholder Alignment Sheet
 
 ### Phase 2: Planning  
 - Define risk areas (data privacy, CDN downtime, IP theft)  
