@@ -33,18 +33,6 @@ More phases will be added as the simulation progresses.
 
 ---
 
-## 🔍 Focus Areas
-
-- Digital Rights Management (DRM)  
-- Intellectual Property Protection  
-- Third-Party Risk Classification  
-- Vendor Compliance Monitoring  
-- Data Security and Audit Logging  
-- Contractual Risk Mitigation
-
-
----
-
 ## 📎 License
 
 This project is for educational and portfolio use only. All vendor names are fictional or sanitized.
