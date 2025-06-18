@@ -8,7 +8,7 @@
 - Mapped internal stakeholders responsible for vendor oversight and regulatory compliance.
 
 **Deliverables:**
-- [📊 Vendor Classification Chart](./Phase-1/Vendor_Classification_Chart.xlsx): Categorizes vendors by type, services, and associated risk levels (Data Privacy & IP).
+- [📊 Vendor Classification Chart](Vendor_Classification_Chart.xlsx): Categorizes vendors by type, services, and associated risk levels (Data Privacy & IP).
 - [👥 Stakeholder Alignment Sheet](https://github.com/Joney2025/StreamSafe-TPRM/blob/main/Stakeholder_Alignment_Sheet.xlsx): Lists departments, roles, and responsibilities involved in TPRM.
 
 Placeholder for Phase 1 files
