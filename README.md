@@ -35,5 +35,6 @@ More phases will be added as the simulation progresses.
 
 ## 📎 License
 
-This project is for educational and portfolio use only. All vendor names are fictional or sanitized.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
+© 2025 **John Idogo**. This work is intended for educational and demonstration purposes only. All vendor data is fictional or anonymized.
