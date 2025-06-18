@@ -1,63 +1,35 @@
-# StreamSafe TPRM
+## 🔍 Project Summary
 
-**A Practical Third-Party Risk Management (TPRM) Framework for Media & Streaming Organizations**
+**StreamSafe TPRM** is a simulated Third-Party Risk Management (TPRM) program designed to reflect the full lifecycle of managing vendors in a media-streaming environment. Inspired by the Venminder TPRM model, this project walks through vendor risk classification, due diligence, compliance tracking, and program closure — all structured into six practical phases aligned with industry standards.
+---
+## 📂 Project Structure
+
+| Phase | Lifecycle Stage (Mapped from Venminder) | Focus | Key Deliverables |
+|-------|-----------------------------------------|-------|------------------|
+| Phase 1 | Planning & Risk Assessment             | Vendor classification, stakeholder alignment | [Vendor Classification Chart](./Vendor_Classification_Chart.xlsx), [Stakeholder Alignment Sheet](./Stakeholder_Alignment_Sheet.xlsx) |
+| Phase 2 | Governance Setup                       | Charter & risk domain definition              | [TPRM Charter](./StreamSafe_TPRM_Charter_Final_AllPhases.docx), Risk Map |
+| Phase 3 | Due Diligence                          | Vendor assessments and scoring                | Coming Soon |
+| Phase 4 | Risk Treatment & Contract Controls     | IP protection and compliance controls         | Coming Soon |
+| Phase 5 | Monitoring & Performance               | Compliance KPIs and red/yellow/green tracker  | Coming Soon |
+| Phase 6 | Closure & Exit                         | Final report and executive presentation       | Coming Soon |
+---
+## 🧭 How to Review This Project
+
+Start with the 👉 [StreamSafe TPRM Charter](./StreamSafe_TPRM_Charter_Final_AllPhases.docx)  
+Then explore:
+- **Phase 1** for vendor classification and stakeholder mapping
+- **Phase 2** for risk domains and project governance
+More phases will be added as the simulation progresses.
 
 ---
 
-## 📌 Project Overview
 
-**StreamSafe TPRM** is a hands-on Third-Party Risk Management project designed to simulate real-world vendor oversight within a media-focused enterprise. The project spans six structured phases, aligning with best practices in content security, data privacy, and IP protection. It showcases strategic and operational capabilities required to design, implement, and monitor a scalable TPRM program.
+## 🛠️ Tools & Frameworks Used
 
----
-
-## 🎯 Objectives
-
-- Classify and map vendors by risk impact to data privacy and intellectual property.
-- Develop a media-centric TPRM charter and risk area map.
-- Evaluate vendor controls including DRM, encryption, and audit logging.
-- Design IP protection strategies and risk treatment plans.
-- Build compliance monitoring tools with KPI-based tracking.
-- Present findings and strategic insights to executive stakeholders.
-
----
-
-## 🗂️ Project Structure
-
-### Phase 1: Initiation  
-- Vendor discovery (dubbing, CDN, analytics)  
-- Stakeholder mapping  
-- Deliverables: Vendor Classification Chart, Stakeholder Alignment Sheet
-
-### Phase 2: Planning  
-- Define risk areas (data privacy, CDN downtime, IP theft)  
-- Deliverables: TPRM Charter, Risk Area Map
-
-### Phase 3: Execution (Part 1)  
-- Evaluate vendor controls: DRM, encryption, audit logs  
-- Deliverables: Due Diligence Checklist, Vendor Scorecard
-
-### Phase 4: Execution (Part 2)  
-- Recommend DRM and IP controls: watermarking, token-based access  
-- Deliverables: Risk Treatment Plan, IP Control Matrix
-
-### Phase 5: Monitoring & Control  
-- Compliance tracker with traffic-light KPI coding  
-- Deliverables: Monitoring Sheet, Sample Contract Clause Edits
-
-### Phase 6: Closure  
-- Executive-level reporting and insights  
-- Deliverables: Final Presentation Deck, Strategic Recommendations
-
----
-
-## 🛠️ Tools & Templates Used
-
-- TPRM Charter & Risk Map Templates  
-- Vendor Assessment Scorecards  
-- Compliance Monitoring Sheets  
-- Sample Contract Clauses  
-- Presentation Decks for Stakeholder Review
-- ServiceNow & eramba
+- **Eramba** – for compliance and vendor risk tracking  
+- **Excel** – for vendor scoring and alignment  
+- **Microsoft Word** – for policy documents and charters  
+- **Frameworks**: ISO 27001, SOC 2, GDPR, CCPA
 
 ---
 
@@ -70,15 +42,10 @@
 - Data Security and Audit Logging  
 - Contractual Risk Mitigation
 
----
-
-## 👤 About the Author
-
-This project was completed as part of a professional upskilling initiative to demonstrate applied knowledge in Third-Party Risk Management, especially within content-driven, privacy-sensitive industries. All templates and processes were custom-designed to reflect industry best practices.
 
 ---
 
 ## 📎 License
 
-This repository is for educational and demonstration purposes only. No real vendor data is included. All content is fictional or anonymized.
+This project is for educational and portfolio use only. All vendor names are fictional or sanitized.
 
