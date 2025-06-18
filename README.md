@@ -1,8 +1,7 @@
-# StreamSafe TPRM
+
+# StreamSafe TPRM : End-to-End Third-Party Risk Management Project
 
 
-
-** End-to-End Third-Party Risk Management Project
 
 ---
 
