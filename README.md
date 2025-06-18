@@ -7,7 +7,7 @@
 | Phase | Lifecycle Stage (Mapped from Venminder) | Focus | Key Deliverables |
 |-------|-----------------------------------------|-------|------------------|
 | Phase 1 | Planning & Risk Assessment             | Vendor classification, stakeholder alignment | [Vendor Classification Chart](./Phase-1/Vendor_Classification_Chart.xlsx), [Stakeholder Alignment Sheet](./Phase-1/Stakeholder_Alignment_Sheet.xlsx) |
-| Phase 2 | Governance Setup                       | Charter & risk domain definition              | [TPRM Charter](./StreamSafe_TPRM_Charter_Final_AllPhases.docx), Risk Map |
+| Phase 2 | Governance Setup                       | Charter & risk domain definition              | [TPRM Charter](./Phase-2/StreamSafe_TPRM_Charter.docx), Risk Map |
 | Phase 3 | Due Diligence                          | Vendor assessments and scoring                | Coming Soon |
 | Phase 4 | Risk Treatment & Contract Controls     | IP protection and compliance controls         | Coming Soon |
 | Phase 5 | Monitoring & Performance               | Compliance KPIs and red/yellow/green tracker  | Coming Soon |
