@@ -15,7 +15,7 @@
 ---
 ## 🧭 How to Review This Project
 
-Start with the 👉 [StreamSafe TPRM Charter](./StreamSafe_TPRM_Charter_Final_AllPhases.docx)  
+Start with the 👉 [StreamSafe TPRM Charter](./Phase-2/StreamSafe_TPRM_Charter.docx)  
 Then explore:
 - **Phase 1** for vendor classification and stakeholder mapping
 - **Phase 2** for risk domains and project governance
