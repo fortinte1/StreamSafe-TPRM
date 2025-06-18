@@ -1,3 +1,11 @@
+# StreamSafe TPRM
+
+
+
+** End-to-End Third-Party Risk Management Project**
+
+
+
 ## 🔍 Project Summary
 
 **StreamSafe TPRM** is a simulated Third-Party Risk Management (TPRM) program designed to reflect the full lifecycle of managing vendors in a media-streaming environment. Inspired by the Venminder TPRM model, this project walks through vendor risk classification, due diligence, compliance tracking, and program closure — all structured into six practical phases aligned with industry standards.
