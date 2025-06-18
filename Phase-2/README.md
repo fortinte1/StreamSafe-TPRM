@@ -11,7 +11,7 @@
 - [📄 StreamSafe TPRM Charter](StreamSafe_TPRM_Charter.docx):  
   Outlines program scope, risk areas (PII exposure, IP leakage, CDN failure), objectives, stakeholder responsibilities, and success metrics aligned to SOC 2, ISO 27001, GDPR, and CCPA.
 
-- ![📊 Risk Area Map by Vendor Category](https://github.com/Joney2025/StreamSafe-TPRM/blob/main/risk%20area%20map.png)  
+- ![📊 Risk Area Map by Vendor Category](risk area map.png)  
   Visualizes the comparative risk levels across vendor categories using a traffic-light system (Red = High Risk, Yellow = Moderate Risk, Green = Low Risk).
 
 ---
