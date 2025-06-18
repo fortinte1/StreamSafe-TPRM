@@ -8,7 +8,7 @@
 - Mapped vendor categories (Creative, Infrastructure, Analytics) against risk types and severity levels.
 
 **Deliverables:**
-- [📄 StreamSafe TPRM Charter](https://github.com/Joney2025/StreamSafe-TPRM/blob/main/Netflix_TPRM_Charter_V2.docx):  
+- [📄 StreamSafe TPRM Charter](https://github.com/Joney2025/StreamSafe-TPRM/blob/main/StreamSafe_TPRM_Charter.docx):  
   Outlines program scope, risk areas (PII exposure, IP leakage, CDN failure), objectives, stakeholder responsibilities, and success metrics aligned to SOC 2, ISO 27001, GDPR, and CCPA.
 
 - ![📊 Risk Area Map by Vendor Category](https://github.com/Joney2025/StreamSafe-TPRM/blob/main/risk%20area%20map.png)  
