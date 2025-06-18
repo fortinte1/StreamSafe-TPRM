@@ -1,6 +1,6 @@
 
 # StreamSafe TPRM : End-to-End Third-Party Risk Management Project
-
+A hands-on TPRM lifecycle project simulating vendor risk oversight for a media-streaming organization.
 ![Project Status](https://img.shields.io/badge/Status-In_Progress-blue)
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 
